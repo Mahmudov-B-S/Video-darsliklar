@@ -5,14 +5,11 @@
 //     "full name": "wba"
 // }
 
-
 // console.log(webbrain["full name"]); // -- wba
-
 
 // console.log(webbrain.title); //  -- webbrain academy
 // console.log(webbrain.year); //  -- 2019
 // console.log(webbrain.location); //  -- chilonzor
-
 
 // let title = "webbrain academy"
 // let year = 2019
@@ -22,8 +19,4 @@
 // let yearDig = 2020
 // let locationDig = "Beruniy"
 
-
-
-
 // console.log(title, year, location);
-
